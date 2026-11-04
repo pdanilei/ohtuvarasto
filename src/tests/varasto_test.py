@@ -71,3 +71,6 @@ class TestVarasto(unittest.TestCase):
 
     def test_str(self):
         self.assertIsInstance(str(self.varasto), str)
+
+
+yeet
